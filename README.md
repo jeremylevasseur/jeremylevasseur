@@ -22,6 +22,8 @@ Here are some links that showcase my previous work:
 
 [Natively Developed iOS Application](https://youtu.be/OFexwWnsxmQ)
 
+You can reach me at my email: jeremy.levasseur@carleton.ca
+
 <!--
 **jeremylevasseur/jeremylevasseur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
