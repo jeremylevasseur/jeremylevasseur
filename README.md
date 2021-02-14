@@ -8,7 +8,7 @@ At the same time as being in school, I am doing freelance software development f
 
 I have experience in mobile development for Android and iOS. I also use React to create interactive web applications.
 
-Linux is my preffered development environment. I then use Docker to run the various applications required within containers. Using this technique makes deployment and the continuous integration of new code very easy.
+Linux is my preferred development environment. I then use Docker to run the various applications required within containers. Using this technique makes deployment and the continuous integration of new code very easy.
 
 My favourite languages are Python and JavaScript, but I use Java and Swift often due to mobile development.
 
