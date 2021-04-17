@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremylevasseur&theme=dark)](https://www.linkedin.com/in/jeremy-levasseur-008209137/)
 
-I am currently in my final semester of Engineering at Carleton University and I am on the hunt for a full time job starting in May 2021.
+I am currently in my final semester of Engineering at Carleton University.
 
 At the same time as being in school, I am doing freelance software development for individuals and small businesses.
 
