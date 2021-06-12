@@ -2,13 +2,13 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremylevasseur&theme=dark)](https://www.linkedin.com/in/jeremy-levasseur-008209137/)
 
-I am currently in my final semester of Engineering at Carleton University.
+I am a recent Engineering graduate from Carleton University, and am currently working for Ericsson as a full-time Developer.
 
-At the same time as being in school, I am doing freelance software development for individuals and small businesses.
+I am also doing freelance software development for individuals and small businesses.
 
 I have experience in mobile development for Android and iOS. I also use React to create interactive web applications.
 
-Linux is my preferred development environment. I then use Docker to run the various applications required within containers. Using this technique makes deployment and the continuous integration of new code very easy.
+Linux is my preferred development environment. I then use Docker to run the various applications required within containers.
 
 My favourite languages are Python and JavaScript, but I use Java and Swift often due to mobile development.
 
