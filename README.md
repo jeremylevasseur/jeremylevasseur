@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremylevasseur&theme=dark)](https://www.linkedin.com/in/jeremy-levasseur-008209137/)
 
-I am a recent Engineering graduate from Carleton University, and am currently working for Ericsson as a full-time Developer.
+I am a recent Engineering graduate from Carleton University, and am currently working for Ericsson as a full-time R&D Engineer.
 
 I am also doing freelance software development for individuals and small businesses.
 
