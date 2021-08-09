@@ -24,6 +24,8 @@ Here are some links that showcase my previous work:
 
 [Natively Developed iOS Application](https://youtu.be/OFexwWnsxmQ)
 
+[Sample Portfolio Website](https://www.jessicaswriting.com/)
+
 You can reach me at my email: jeremy.levasseur@carleton.ca
 
 <!--
