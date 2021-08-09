@@ -6,7 +6,7 @@ I am a recent Engineering graduate from Carleton University, and am currently wo
 
 I am also doing freelance software development for individuals and small businesses.
 
-<!-->
+<!--
 I have experience in mobile development for Android and iOS. I also use React to create interactive web applications.
 
 Linux is my preferred development environment. I then use Docker to run the various applications required within containers.
