@@ -2,27 +2,15 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremylevasseur&theme=dark)](https://www.linkedin.com/in/jeremy-levasseur-008209137/)
 
-I am currently in my final semester of Engineering at Carleton University.
+I am currently working as a Research & Development Developer at Ericsson. I graduated from Carleton University in 2021 with a bachelor of Engineering.
 
-At the same time as being in school, I am doing freelance software development for individuals and small businesses.
+In addition to working for Ericsson, I do freelance software development for individuals and small businesses on the side.
 
-I have experience in mobile development for Android and iOS. I also use React to create interactive web applications.
+I have experience in mobile development for Android and iOS. I also use the MERN tech stack to create interactive web applications.
 
-Linux is my preferred development environment. I then use Docker to run the various applications required within containers. Using this technique makes deployment and the continuous integration of new code very easy.
+Linux is my preferred development environment. My favourite languages are Python and JavaScript, but I use Java and Swift often due to mobile development.
 
-My favourite languages are Python and JavaScript, but I use Java and Swift often due to mobile development.
-
-Here are some links that showcase my previous work:
-
-[Personal Freelance Website](https://www.nautilusdevelopment.ca/)
-
-[LinkedIn Profile](https://www.linkedin.com/in/jeremy-levasseur-008209137/)
-
-[Natively Developed Android Application](https://youtu.be/1iAqKLFYIHs)
-
-[Natively Developed iOS Application](https://youtu.be/OFexwWnsxmQ)
-
-You can reach me at my email: jeremy.levasseur@carleton.ca
+You can learn more about me at my [personal website](https://www.jeremylevasseur.com/), or you can see the website I use for [freelance development](https://www.nautilusdevelopment.ca/). Here is my [LinkedIn profile](https://www.linkedin.com/in/jeremy-levasseur-008209137/).
 
 <!--
 **jeremylevasseur/jeremylevasseur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
