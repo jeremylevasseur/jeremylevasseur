@@ -1,8 +1,6 @@
-### Welcome to my GitHub profile
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremylevasseur&theme=dark)](https://www.linkedin.com/in/jeremy-levasseur-008209137/)
 
-I am currently working as an R&D Developer at Ericsson. I graduated from Carleton University in 2021 with a bachelor of Engineering.
+I am currently working as a software developer at Ericsson and as the CTO at [InertialAI](https://www.inertialai.com/). I graduated from Carleton University in 2021 with a bachelor of Engineering.
 
 I have experience in mobile development for Android and iOS. I also use the MERN tech stack to create interactive web applications.
 
