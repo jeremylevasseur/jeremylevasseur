@@ -1,5 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremylevasseur&theme=dark)](https://www.linkedin.com/in/jeremy-levasseur-008209137/)
-
 Software developer at Ericsson and CTO at [InertialAI](https://www.inertialai.com/).
 
 <!--
