@@ -1,12 +1,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremylevasseur&theme=dark)](https://www.linkedin.com/in/jeremy-levasseur-008209137/)
 
-I am currently working as a software developer at Ericsson and as the CTO at [InertialAI](https://www.inertialai.com/). I graduated from Carleton University in 2021 with a bachelor of Engineering.
-
-I have experience in mobile development for Android and iOS. I also use the MERN tech stack to create interactive web applications.
-
-Linux is my preferred development environment. My favourite languages are Python and JavaScript, but I use Java and Swift often due to mobile development.
-
-Here is my [LinkedIn profile](https://www.linkedin.com/in/jeremy-levasseur-008209137/).
+Software developer at Ericsson and CTO at [InertialAI](https://www.inertialai.com/).
 
 <!--
 **jeremylevasseur/jeremylevasseur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
